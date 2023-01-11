@@ -1,0 +1,102 @@
+/* CSS Index */
+.mainbg{
+    background-image: url(../images/mainBG.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+/* CSS MCh1 */
+.bg1{
+    background-image: url(../images/1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+#mainTittle h1{
+    color:chartreuse;
+    font-size: 100px;
+    text-align: center;
+    position: relative;
+    margin: 0 auto;
+}
+
+.spacing1{
+    margin-top: 5%;
+}
+
+.spacing2{
+    margin-top: 10%;
+}
+
+.spacing3{
+    margin-top: 12%;
+}
+
+.btnWidth{
+    width: 275px;
+}
+
+/* CSS MCh2 */
+.bg2{
+    background-image: url(../images/2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+/* CSS MCh3 */
+.bg3{
+    background-image: url(../images/3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+/* CSS MCh4 */
+.bg4{
+    background-image: url(../images/4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+/* CSS MCh5 */
+.bg5{
+    background-image: url(../images/5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+/* CSS MCh6 */
+.bg6{
+    background-image: url(../images/6.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+/* CSS MCh7 */
+.bg7{
+    background-image: url(../images/7.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+/* CSS MCh8 */
+.bg8{
+    background-image: url(../images/8.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+/* CSS MCh9 */
+.bg9{
+    background-image: url(../images/9.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+/* CSS MCh10 */
+.bg10{
+    background-image: url(../images/10.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
