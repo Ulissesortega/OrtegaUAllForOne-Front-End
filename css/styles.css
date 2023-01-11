@@ -68,6 +68,13 @@
     width: 150px;
 }
 
+.btnHome1{
+    position: relative;
+    top: 500px;
+    left: 1200px;
+    width: 150px;
+}
+
 /* CSS MCh2 */
 .bg2{
     background-image: url(../images/2.jpg);
