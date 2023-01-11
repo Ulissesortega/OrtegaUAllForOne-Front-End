@@ -6,9 +6,9 @@
 /* CSS Index */
 .mainbg{
     background-image: url(../images/mainBG.jpg);
-    background-size: cover;
+    background-size:cover;
     background-repeat: no-repeat;
-    height: 100vh;
+    background-position: center;
 }
 /* CSS MCh1 */
 .bg1{
