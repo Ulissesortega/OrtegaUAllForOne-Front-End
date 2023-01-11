@@ -9,7 +9,9 @@
     background-size:cover;
     background-repeat: no-repeat;
     background-position: center;
+    
 }
+
 /* CSS MCh1 */
 .bg1{
     background-image: url(../images/1.jpg);
@@ -27,7 +29,7 @@
     margin: 5% auto;
     background-color: #061D6F;
     border-color: #00E0FF;
-    border-radius: 100px;
+    border-radius: 10px;
     border-style: double;
     width: 65%;
     padding: 10px;
@@ -51,7 +53,7 @@
 
 .noscroll { 
     overflow: hidden;
-  }
+}
   
   .overlay { 
      position: fixed; 
@@ -70,9 +72,14 @@
 
 .btnHome1{
     position: relative;
-    top: 500px;
-    left: 1200px;
+    top: 250px;
+    left: 1050px;
     width: 150px;
+}
+
+.centered
+{
+    text-align: center;
 }
 
 /* CSS MCh2 */
@@ -138,3 +145,4 @@
     background-repeat: no-repeat;
     height: 100vh;
 }
+
