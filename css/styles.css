@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Istok Web';
+    src: url(../Fonts/IstokWeb-Regular.ttf);
+}
+
 /* CSS Index */
 .mainbg{
     background-image: url(../images/mainBG.jpg);
@@ -14,27 +19,53 @@
 }
 
 #mainTittle h1{
-    color:chartreuse;
-    font-size: 100px;
+    font-family:'Istok Web';
+    color:white;
+    font-size: 50px;
     text-align: center;
     position: relative;
-    margin: 0 auto;
+    margin: 5% auto;
+    background-color: #061D6F;
+    border-color: #00E0FF;
+    border-radius: 100px;
+    border-style: double;
+    width: 65%;
+    padding: 10px;
 }
 
 .spacing1{
-    margin-top: 5%;
+    margin-top: 1%;
 }
 
 .spacing2{
-    margin-top: 10%;
+    margin-top: 8%;
 }
 
 .spacing3{
-    margin-top: 12%;
+    margin-top: 10%;
 }
 
 .btnWidth{
     width: 275px;
+}
+
+.noscroll { 
+    overflow: hidden;
+  }
+  
+  .overlay { 
+     position: fixed; 
+     overflow-y: scroll;
+     inset: 0; }
+  
+  [aria-hidden="true"]  { display: none; }
+  [aria-hidden="false"] { display: block; }
+
+.btnHome{
+    position: relative;
+    top: 450px;
+    left: 1200px;
+    width: 150px;
 }
 
 /* CSS MCh2 */
