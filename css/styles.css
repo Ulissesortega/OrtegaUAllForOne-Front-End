@@ -31,7 +31,7 @@
     border-color: #00E0FF;
     border-radius: 10px;
     border-style: double;
-    width: 65%;
+    width: 55%;
     padding: 10px;
 }
 
@@ -72,7 +72,7 @@
 
 .btnHome1{
     position: relative;
-    top: 250px;
+    top: 110px;
     left: 1050px;
     width: 150px;
 }
