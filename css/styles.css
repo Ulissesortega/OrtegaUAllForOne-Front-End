@@ -3,6 +3,7 @@
     src: url(../Fonts/IstokWeb-Regular.ttf);
 }
 
+
 /* CSS Index */
 .mainbg{
     background-image: url(../images/mainBG.jpg);
@@ -12,12 +13,23 @@
     
 }
 
+.container1
+{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+
 /* CSS MCh1 */
 .bg1{
     background-image: url(../images/1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 100vh;
+    background-position: center center;
+    height: 100%;
+    width: 100%;
 }
 
 #mainTittle h1{
