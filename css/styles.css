@@ -3,14 +3,12 @@
     src: url(../Fonts/IstokWeb-Regular.ttf);
 }
 
-
 /* CSS Index */
 .mainbg{
     background-image: url(../images/mainBG.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     background-position: center;
-    
 }
 
 .container1
@@ -94,6 +92,10 @@
     text-align: center;
 }
 
+.input1{
+    color:blue;
+    font-size: 40px;
+}
 /* CSS MCh2 */
 .bg2{
     background-image: url(../images/2.jpg);
